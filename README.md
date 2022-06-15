@@ -94,7 +94,7 @@ function setGreeting(string memory _greeting) public {
 }
 ```
 
-<h3 align='left'><b>Exploring the Smart Contract</b></h3>
+<h3 align='left'><b>Deploying the smart contract</b></h3>
 
 To deploy the contract to the blockchain, run the below script:
 
