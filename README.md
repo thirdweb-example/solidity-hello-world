@@ -118,4 +118,4 @@ npx hardhat test
 
 ## What's Next
 
-TODO: Link to next template with UI here
+To build a web-app application using this smart contract, check out our next template, ["Build a web3 application using thirdweb"](https://replit.com/@thirdweb-dev/Build-a-web3-Application-using-thirdweb)!
